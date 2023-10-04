@@ -53,13 +53,12 @@ img {
 }
 
 .location {
-    /* padding-top: 10px; */
-    font-size: 34px;
+    font-size: 44px;
     color: white;
 }
 
 .temp {
-    font-size: 46px;
+    font-size: 56px;
     color: white;
 }
 
